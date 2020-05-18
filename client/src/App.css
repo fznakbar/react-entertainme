@@ -1,0 +1,61 @@
+.Home {
+  text-align: center;
+  background-color: black;
+  height: 100%;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+}
+
+.addMovie {
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+}
+
+.add {
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.form-group {
+  color: white;
+}
+
+/* .form-control {
+  width: 500px;
+} */
+
+.conMovie{
+  display: flex;
+  /* text-align: right; */
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  opacity: 90%;
+}
+
+.Movie {
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.TvSeries {
+  text-align: center;
+  background-color: black;
+  height: 100vh
+}
+
+.Judul {
+  margin-top: 0;
+  color: red;
+  background-color: black;
+  text-align: left;
+}
